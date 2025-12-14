@@ -1,7 +1,7 @@
 # Java Banking System Simulation 🏦
 
 ## Project Overview
-[cite_start]This project is a practical exercise (Travaux Pratiques) for the **Object-Oriented Programming (OOP)** module (Java) at **Université Sidi Mohamed Ben Abdellah, Fès (SMI S5)**[cite: 1, 2].
+[cite_start]This project is a practical exercisefor the **Object-Oriented Programming (OOP)** module (Java) .
 
 It simulates a basic banking system where `Clients` can own `Accounts` (Comptes). The system handles core banking operations such as deposits, withdrawals, transfers between accounts, and account management using fundamental OOP concepts.
 
@@ -31,7 +31,7 @@ The project consists of three main Java classes:
 ## Getting Started 🛠️
 
 ### Prerequisites
-* Java Development Kit (JDK) installed (JDK 8 or higher).
+* Java Development Kit (JDK) installed (JDK 25).
 * VS Code or any Java IDE.
 
 ### How to Run
